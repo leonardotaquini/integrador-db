@@ -1,0 +1,2036 @@
+[{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f10"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340011300,
+  "nombre": "JARDIN DE INFANTES SAN MIGUEL",
+  "domicilio": "  DIVINO NIÑO CAPILLA",
+  "cod_postal": "P3600",
+  "telefono": "0370 154627201",
+  "mail": "iisabel-olmedom@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f11"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340011301,
+  "nombre": "JARDIN DE INFANTES SAN  MIGUEL ANEXO 1",
+  "domicilio": "LAS HERAS  DIVIÑO NIÑO JESUS EPEP N 532",
+  "cod_postal": "P3600",
+  "telefono": "03704627201 627201",
+  "mail": "isabel-olmedomhotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f33"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340014700,
+  "nombre": "EJI Nº 4 SUSANA HERMINIA ZORRILLA DE CODDA",
+  "domicilio": "SARGENTO ROMAN ACOSTA  COLLUCCIO AL COSTADO DE LA EPEP 399",
+  "cod_postal": "P3600",
+  "telefono": "370 4479514",
+  "mail": "eji4_susanazorrilladecoda@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f34"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340014701,
+  "nombre": "EJI Nº 4 ANEXO 1 - Bº VIRGEN NIÑA",
+  "domicilio": "ALICIA MOREAU DE JUSTO  VIRGEN NIÑA AL COSTADO DE LA EPEP 519",
+  "cod_postal": "P3600",
+  "telefono": "370 5062534",
+  "mail": "eji4_susanazorrilladecoda@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f70"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340019700,
+  "nombre": "ESCUELA PRIVADA SAN JOSE OBRERO",
+  "domicilio": "EVA PERON Y TERCERA  SAN JOSÉ OBRERO Manuel Moratalla 684 (nuevo nombre de la continuacion de la calle Eva Peron)",
+  "cod_postal": "P3600",
+  "telefono": "3704 437839    /       4435790 (N. Sec)",
+  "mail": "esjosecundaria@hotmail.com                                                                                  escuelaprimariasanjoseobrero@gmail.com.ar",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f8b"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340022500,
+  "nombre": "JARDIN DE INFANTES NUESTRA SEÑORA DEL CARMEN",
+  "domicilio": "PADRE GROTTI 186 INDEPENDENCIA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 515436",
+  "mail": "myrianesther04@hotmail.com.ar",
+  "mod_comun": 1,
+  "mod_adultos": 1,
+  "ec_jar": 1,
+  "ad_FP_INET": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0f9e"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340024400,
+  "nombre": "JARDIN DE INFANTES LA VIRGEN NIÑA",
+  "domicilio": "JUNIN 363 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "03704 420242",
+  "mail": "jardinlavirgenina08@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0fa0"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340025000,
+  "nombre": "JARDIN DE INFANTES LA HORMIGUITA VIAJERA",
+  "domicilio": "EVA PERON 951 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "370 4431977",
+  "mail": "lahormiguita_viajera@hotmail.es",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad0feb"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340030400,
+  "nombre": "EJI Nº 15 MERCEDITAS",
+  "domicilio": "DEAN FUNES 355 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4429117",
+  "mail": "jardin15merceditas@yahoo.com.ar",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1029"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340035100,
+  "nombre": "EJI Nº 3 ELVIRA DEL RIO",
+  "domicilio": "ANTENOR POLO  JUAN DOMINDO PERON MZ 4",
+  "cod_postal": "P3600",
+  "telefono": "3704 801527",
+  "mail": "torres.edit18@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad102a"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340035101,
+  "nombre": "EJI Nº 3 - ANEXO 1 - EPEP Nº 520",
+  "domicilio": "ERNESTO GOIS  NUESTRA SEÑORA DE LUJAN MZ 63 ENTRE FIRPHO Y CAROYA ",
+  "cod_postal": "P3600",
+  "telefono": "3704- 355570",
+  "mail": "marinaortiz29@hotmail.com.",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1056"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340039300,
+  "nombre": "ESC.PRIVADA ADVENTISTA DE FORMOSA",
+  "domicilio": "JUAN JOSE SILVA 2620 GUADALUPE ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4450225-4459950",
+  "mail": "iinstituto.iafo@educacionadventista.org.ar",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10af"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340046700,
+  "nombre": "EJI Nº 11 OSITO CARIÑOSO",
+  "domicilio": "SOLANO LIMA Y AV. RAUL ALFONCIN   EVA PERON ",
+  "cod_postal": "P3600",
+  "telefono": "3717 474998",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10b4"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340047200,
+  "nombre": "ESC.PRIVADA SANTO DOMINGO SAVIO",
+  "domicilio": "FOTHERINGHAM 3290 MARIANO MORENO ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4452846",
+  "mail": "DOMINGOSAVIOFSA@HOTMAIL.COM / epesdomingosavio@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10b5"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340047300,
+  "nombre": "JARDIN DE INFANTES SAN LUIS REY",
+  "domicilio": "MORENO 1530 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "3704 440333",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10b6"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340047301,
+  "nombre": "JARDIN DE INFANTES SAN LUIS REY DE FATIMA ANEXO 1",
+  "domicilio": "SAN MARTIN 2627 BERNARDINO RIVADAVIA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 423157",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10bd"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340047700,
+  "nombre": "EJI Nº 2 MARINA M RAVIOLI",
+  "domicilio": "MASFERRER  LA PAZ AL LADO DE LA  EPEP Nº 19 A TRES METROS DE LA CAPILLA  VIRGEN DE LA PAZ ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c0"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048100,
+  "nombre": "EJI Nº 8 ANA MARIA POMPONIO DE SCARPA",
+  "domicilio": "CORRIENTES 2350 GUADALUPE ",
+  "cod_postal": "P3600",
+  "telefono": "03704 566920",
+  "mail": "ejin8fsa@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c1"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048200,
+  "nombre": "JIN Nº 7 - EPEP Nº 136",
+  "domicilio": "MANZANA Nº 8  EVA PERON ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c2"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048201,
+  "nombre": "JIN Nº 7 - EPEP Nº 209",
+  "domicilio": "  JUAN DOMINDO PERON MZ 45 SEC. M",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c3"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048202,
+  "nombre": "JIN Nº 7 - EPEP Nº 331",
+  "domicilio": "  LAS ORQUÍDEAS ",
+  "cod_postal": "P3600",
+  "telefono": "3704 623715",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c4"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048203,
+  "nombre": "JIN Nº 7 - EPEP Nº 436",
+  "domicilio": "PAULA ALBARRACIN  SIMON BOLIVAR ",
+  "cod_postal": "P3600",
+  "telefono": "3704 623715",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10c5"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340048205,
+  "nombre": "JIN Nº 7 MADRE TERESA DE CALCUTA- EPEP Nº 514",
+  "domicilio": "S/PASAJE - MZ 50  REPÚBLICA ARGENTINA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 623715",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10d3"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340049800,
+  "nombre": "ESC.PRIVADA CATOLICA MARIA AUXILIADORA PAREDES",
+  "domicilio": "FLORENTINO AMEGHINO 631 LA FLORESTA ",
+  "cod_postal": "P3600",
+  "telefono": "03704 040648",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10d4"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340049900,
+  "nombre": "ESCUELA NORMAL SUPERIOR REPÚBLICA DEL PARAGUAY",
+  "domicilio": "AV 9 DE JULIO Y AV NAPOLEON URIBURU 998 VILLA HERMOSA ",
+  "cod_postal": "P3600",
+  "telefono": "03704 427928",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1,
+  "ec_SNU": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10e3"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340051100,
+  "nombre": "INSTITUTO SANTA ISABEL",
+  "domicilio": "AV. 25 DE MAYO 517 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "370 4421832",
+  "mail": "ISISECRE@HOTMAIL.COM-isi_nivelsuperior@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10e5"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340051400,
+  "nombre": "INSTITUTO PRIVADO INCORPORADO SAN FRANCISCO DE ASIS Ñ11",
+  "domicilio": "MONSEÑOR SCOZZINA 1415 SAN FRANCISCO ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4421861- 4440610",
+  "mail": "franciscoasis06@hotmail.com/ secundariasanfcodeasis@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10ec"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340051700,
+  "nombre": "EJI Nº 6 RITA LATALLADA DE VICTORIA",
+  "domicilio": "MIGUEL GUTIERREZ 1125 JUAN MANUEL DE ROSAS ",
+  "cod_postal": "P3600",
+  "telefono": 3704,
+  "mail": "rlveji61987@hotmail.com.",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad10ed"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "GRAN GUARDIA",
+  "cod_loca": 34014055,
+  "CUEanexo": 340051701,
+  "nombre": "EJI Nº 6 ANEXO 1 - EPEP Nº 59 ",
+  "domicilio": "25 DE MAYO   GRAN GUARDIA",
+  "cod_postal": "P3604",
+  "telefono": "00 00",
+  "mail": "rlveji61987@hotmail.com.",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1112"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340054000,
+  "nombre": "EJI Nº 9 PASTORCITOS DE BELEN",
+  "domicilio": "FOTHERINGHAM 3046 MARIANO MORENO ",
+  "cod_postal": "P3600",
+  "telefono": "00 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1122"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340054700,
+  "nombre": "ISFDCYT FELIX ATILIO CABRERA",
+  "domicilio": "CORDOBA 1125 DON BOSCO ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4422545",
+  "mail": "mcye.isfdcytatiliocabrera@formosa.gob.ar",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1,
+  "ec_SNU": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1135"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340056100,
+  "nombre": "ESC.EVANGELICA PRIVADA JUAN DRING",
+  "domicilio": "AV.25 DE MAYO 544 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "370 4424059 / 4440380",
+  "mail": "escueladring2011@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1136"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340056300,
+  "nombre": "COLEGIO PRIVADO DR.ESTEBAN L.MARADONA",
+  "domicilio": "JOSE MARIA URIBURU 157 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "3704 431044",
+  "mail": "COLEGIOMARADONA@ARNET.COM.AR",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad115d"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340059400,
+  "nombre": "EJI Nº 1 ROSARITO VERA",
+  "domicilio": "JUAN MANUEL DE ROSAS CASI AV. ITALIA   2 DE ABRIL AL LADO DE LA EPEP 380",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1163"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340060000,
+  "nombre": "JIN Nº 5 DOLORES DEL CARMEN MOSNA - EPEP Nº 435",
+  "domicilio": "MARTIN ACUÑA  EMILIO TOMAS AL LADO DE LA EPES 31",
+  "cod_postal": "P3600",
+  "telefono": "3704 667649",
+  "mail": "sedejincinco@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1164"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340060001,
+  "nombre": "JIN Nº 5 - EPEP Nº 268",
+  "domicilio": "MASFERRER  631 SAN AGUSTÍN ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1165"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340060002,
+  "nombre": "JIN Nº 5 - EPEP Nº 88",
+  "domicilio": "PASAJE SAN LORENZO  FLEMING AL COSTADO DE LA EPEP Nº 88 Y ATRÁS DEL CENTRO CULTURAL LA MANDINGA",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1166"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340060003,
+  "nombre": "JIN Nº 5 - EPEP Nº 225",
+  "domicilio": "O`HIGGINS  SAN MIGUEL AL COSTADO DE LA EPEP 225",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad11b8"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340066100,
+  "nombre": "JARDIN DE INFANTES PRIVADO LAS ARDILLITAS- ASOCIACION CRISTIANA FEMENINA DE FORMOSA",
+  "domicilio": "PASAJE BASE GRAL. BELGRANO 2515 COVIFOL BARRIO COVIFOL",
+  "cod_postal": "P3600",
+  "telefono": "03704 429582",
+  "mail": "ywcaformosa@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad120c"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340072900,
+  "nombre": "JARDIN DE INFANTES MARIA AUXILIADORA DON BOSCO",
+  "domicilio": "HIPOLITO IRIGOYEN 955 DON BOSCO ",
+  "cod_postal": "P3600",
+  "telefono": "3704 4434715",
+  "mail": "jardinmariaauxiliadoradb.fsa@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1213"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073100,
+  "nombre": "JIN Nº 3 LATIFE MANZUR DE LOPEZ - EPEP Nº 3",
+  "domicilio": "HIPOLITO IRIGOYEN 646 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "0370 4431614",
+  "mail": "jardinesnucleados@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1214"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073101,
+  "nombre": "JIN Nº 3 - EPEP Nº 2",
+  "domicilio": "RIVADAVIA  SAN MARTÍN AL LADO DE LA EPEP 2",
+  "cod_postal": "P3600",
+  "telefono": "3704 4431614",
+  "mail": "jardinesnucleados3@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1215"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073102,
+  "nombre": "JIN Nº 3 - EPEP Nº 31",
+  "domicilio": "AYACUCHO 12 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "3704 431614",
+  "mail": "j jardinesnucleados3@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1216"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073103,
+  "nombre": "JIN Nº 3 - EPEP Nº 217",
+  "domicilio": "INGENIERO GUERGO  BERNARDINO RIVADAVIA AL LADO DE LA CAPILLA NUESTRA SRA DE FATIMA",
+  "cod_postal": "P3600",
+  "telefono": "3704 431614",
+  "mail": "jardinesnucleados3@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1217"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073600,
+  "nombre": "JIN Nº 4 BEATRIZ MOLINA DE STEFANICH - EPEP Nº 66",
+  "domicilio": "SARMIENTO 490 INDEPENDENCIA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 681380",
+  "mail": "jin4formosa@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1218"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073601,
+  "nombre": "JIN Nº 4 - EPEP Nº 18",
+  "domicilio": "AVENIDA GONZALEZ LELONG 250 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1219"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340073602,
+  "nombre": "JIN Nº 4 - EPEP Nº 58",
+  "domicilio": "SARMIENTO 490 INDEPENDENCIA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 681380",
+  "mail": "jin4formos@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121a"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074000,
+  "nombre": "JIN Nº 9 GLADYS ELIZABETH SANCHEZ - EPEP Nº 407 (SEDE)",
+  "domicilio": "FOTHERINGHAM 4990 SAN JUAN BAUTISTA ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121b"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "PUENTE SAN HILARIO",
+  "cod_loca": 34014160,
+  "CUEanexo": 340074002,
+  "nombre": "JIN Nº 9 - EPEP Nº 228",
+  "domicilio": "RUTA NAC Nº 11 - KM 1159  NUEVA POMPEYA FRENTE A LA EPES 73 Y AL COSTADO DE LA EPEP 228",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121c"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074003,
+  "nombre": "JIN Nº 9 - EPEP Nº 333",
+  "domicilio": "  VILLA DEL CARMEN ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121d"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074005,
+  "nombre": "JIN Nº 9 - EPEP Nº 365",
+  "domicilio": "FRAY JUSTO SANTA MARIA DE ORO 1235 VIRGEN DEL ROSARIO ",
+  "cod_postal": "P3600",
+  "telefono": "000 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121e"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074400,
+  "nombre": "JIN Nº 6 - EPEP Nº 124",
+  "domicilio": "AV.25 DE MAYO 1651 INDEPENDENCIA ",
+  "cod_postal": "P3600",
+  "telefono": "00 0000",
+  "mail": "jinucleo6@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad121f"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074401,
+  "nombre": "JIN Nº 6 - EPEP Nº 240",
+  "domicilio": "CORRIENTES 1398 INDEPENDENCIA ",
+  "cod_postal": "P3600",
+  "telefono": "00 0000",
+  "mail": "jjinucleo6@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1220"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074402,
+  "nombre": "JIN Nº 6 - EPEP Nº 224",
+  "domicilio": "ITURRIEL N FILHO 1270 OBRERO ",
+  "cod_postal": "P3600",
+  "telefono": "00 000",
+  "mail": "jinucleo6@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1221"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340074403,
+  "nombre": "JIN Nº 6 ARMANDO DE VITA Y LACERRA - EPEP Nº 179",
+  "domicilio": "JUJUY 1315 DON BOSCO ",
+  "cod_postal": "P3600",
+  "telefono": "3717 704343",
+  "mail": "jinucleo6@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1222"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340075700,
+  "nombre": "JIN Nº 8 NUESTRA SEÑORA DE LOURDES- EPEP Nº 290",
+  "domicilio": "MADARIAGA 1565 VILLA LOURDES ",
+  "cod_postal": "P3600",
+  "telefono": "00 3704589498",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1223"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "SAN HILARIO",
+  "cod_loca": 34014124,
+  "CUEanexo": 340075701,
+  "nombre": "JIN Nº 8 - EPEP Nº 37",
+  "domicilio": "AV. INDEPENDENCIA   CALLES FLORENTINO AMEGUINO Y SAN MARTIN",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1224"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "COLONIA PASTORIL",
+  "cod_loca": 34014020,
+  "CUEanexo": 340075702,
+  "nombre": "JIN Nº 8 - EPEP Nº 48",
+  "domicilio": "9 DE JULIO  CENTRO RUTA PROV. N°2",
+  "cod_postal": "P3601",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1225"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "MARIANO BOEDO",
+  "cod_loca": 34014158,
+  "CUEanexo": 340075703,
+  "nombre": "JIN Nº 8 - EPEP Nº 55",
+  "domicilio": "CAMINO VECINAL  203  MARIANO BOEDO",
+  "cod_postal": "P3604",
+  "telefono": "000 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1226"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340075704,
+  "nombre": "JIN Nº 8 - EPEP Nº 374",
+  "domicilio": "FELIPE OLIVA 1048 VIAL ENTRE RIGOTTI Y AMADEY",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1227"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340075705,
+  "nombre": "JIN Nº 8 - EPEP Nº 396",
+  "domicilio": "MIGUEL GUTIERREZ 2900 ITATI ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1228"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340075706,
+  "nombre": "JIN Nº 8 - EPEP Nº 446",
+  "domicilio": "MARTIN MIGUEL DE GÜEMES  SAN PEDRO ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1229"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "MOJON DE FIERRO",
+  "cod_loca": 34014095,
+  "CUEanexo": 340075707,
+  "nombre": "JIN Nº 8 - EPEP DE FRONTERA Nº 2",
+  "domicilio": "CAMINO VECINAL   MOJON DE FIERRO",
+  "cod_postal": "P3604",
+  "telefono": "0 0",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad122a"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340076100,
+  "nombre": "EJI Nº 16 MANUEL BELGRANO",
+  "domicilio": "MZ 135  REPÚBLICA ARGENTINA ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mail": "GRACIELA-LOP@HOTMAIL.COM",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad122b"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340076200,
+  "nombre": "EJI Nº 17 DIVINO NIÑO JESUS",
+  "domicilio": "CORONEL BOGADO 2380 PARQUE URBANO II ",
+  "cod_postal": "P3600",
+  "telefono": "000 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad124c"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340079500,
+  "nombre": "JIN Nº 12 - EPEP Nº 501",
+  "domicilio": "TRINIDAD GONZALEZ 1398 VENEZUELA ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad124d"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340079501,
+  "nombre": "JIN Nº 12 - EPEP Nº 57",
+  "domicilio": "AVENIDA LOS CONSTITUYENTES  1° DE MAYO CURVA",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad124e"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340079502,
+  "nombre": "JIN Nº 12 - EPEP Nº 254",
+  "domicilio": "AVENIDA LOS PIONEROS 3600 SAN ANTONIO CALLE SERGIO GODOY",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad124f"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340079503,
+  "nombre": "JIN Nº 12 - EPEP Nº 378",
+  "domicilio": "AVENIDA GENDARMERIA NACIONAL 1035 FACUNDO QUIROGA ",
+  "cod_postal": "P3600",
+  "telefono": "000 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1258"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340081000,
+  "nombre": "COLEGIO PRIVADO ALAS",
+  "domicilio": "AYACUCHO 64 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "3704 424529",
+  "mail": "MARYBUCCINI@ARNET.COM.AR",
+  "mod_comun": 1,
+  "ec_jar": 1,
+  "ec_pri": 1,
+  "ec_sec": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1264"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340081500,
+  "nombre": "JARDIN DE INFANTES  MICKEY MOUSE",
+  "domicilio": "FONTANA 1114 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "3704 418278",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1265"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340081700,
+  "nombre": "JARDIN DE INFANTES EL JARDIN DE LA TIA SILVIA",
+  "domicilio": "MORENO 184 SAN MARTÍN ",
+  "cod_postal": "P3600",
+  "telefono": "0 0",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad126e"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340081900,
+  "nombre": "EJI Nº 20",
+  "domicilio": "  ANTENOR GAUNA MZ. 36",
+  "cod_postal": "P3600",
+  "telefono": "3704 565697",
+  "mail": "eji20formosa@gmail.com.",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1294"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340085200,
+  "nombre": "JARDIN DE INFANTES INMACULADA CONCEPCION",
+  "domicilio": "JUJUY 1855 VILLA HERMOSA ",
+  "cod_postal": "P3600",
+  "telefono": "3704 543310",
+  "mail": "Matijardin@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad12ad"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340087100,
+  "nombre": "JARDIN DE INFANTES REFUGIO DE PAZ",
+  "domicilio": "SANTA CRUZ 465 SAN ANDRES I ",
+  "cod_postal": "P3600",
+  "telefono": 450230,
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad12bd"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340087900,
+  "nombre": "EJI Nº 21",
+  "domicilio": "AVENIDA LUCIO RODRIGUEZ  NAMQOM RUTA 11",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1356"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340091200,
+  "nombre": "JARDIN MATERNO INFANTIL PRIVADO PETER PAN",
+  "domicilio": "AV. ITALIA 1554 SAN FRANCISCO AV. ITALIA 1554 Bº SAN FRANCISCO",
+  "cod_postal": "P3600",
+  "telefono": "370 4431752",
+  "mail": "VALERIASOLOAGA@HOTMAIL.COM",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1370"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340092800,
+  "nombre": "EJI Nº 24 SANTA TERESITA DEL NIÑO JESUS",
+  "domicilio": "CALLE PUBLICA - MZ. 91 SEC. B  DIVIÑO NIÑO JESUS ",
+  "cod_postal": "P3600",
+  "telefono": " ",
+  "mail": "ejin24santateresita@hotmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1465"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "COLONIA ITUZAINGO",
+  "cod_loca": 34014018,
+  "CUEanexo": 340105902,
+  "nombre": "JIN Nº 23 - EPEP Nº 94",
+  "domicilio": "RUTA PROVINCIAL Nº 5   COLONIA ITUZAINGO",
+  "cod_postal": "P3605",
+  "telefono": "1 1",
+  "mail": "JIN23laishi@hotmail.com.",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad146b"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Rural",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "COLONIA PRESIDENTE YRIGOYEN",
+  "cod_loca": 34014022,
+  "CUEanexo": 340105908,
+  "nombre": "JIN Nº 23 - EPEP Nº 10",
+  "domicilio": "EX RUTA PROVINCIAL Nº 1   PRESIDENTE YRIGOYEN",
+  "cod_postal": 3605,
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14dc"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112100,
+  "nombre": "C.D.I. EL PRINCIPITO",
+  "domicilio": "ANA MARIA CANEPA  SIMON BOLIVAR ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14dd"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112200,
+  "nombre": "C.D.I. VIRGEN DE ITATI",
+  "domicilio": "16 DE JULIO  ITATI ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14de"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112400,
+  "nombre": "C.D.I. NUESTRA SEÑORA DE GUADALUPE",
+  "domicilio": "FUERZA AEREA ARGENTINA  GUADALUPE ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14df"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112600,
+  "nombre": "C.D.I. SAN MIGUEL",
+  "domicilio": "ITUZAINGO 155 SAN MIGUEL ",
+  "cod_postal": 3600,
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e0"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112700,
+  "nombre": "C.D.I. PADRE BENITO LOPEZ",
+  "domicilio": "PACIFICO SCOZZINA 1335 SAN FRANCISCO ",
+  "cod_postal": 3600,
+  "telefono": "000 00000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e1"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340112800,
+  "nombre": "C.D.I. NUESTRA SEÑORA DE LA PAZ",
+  "domicilio": "MASFERRER Y PJE. MARTIN FIERRO  LA PAZ ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e2"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340113200,
+  "nombre": "C.D.I. EVA PERON",
+  "domicilio": "MZ:17 C:17 EVA PERON  EVA PERON ",
+  "cod_postal": 3600,
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e3"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340113400,
+  "nombre": "C.D.I. NIÑO FELIZ",
+  "domicilio": "AV. DE LOS CONSTITUYENTES Y QUIÑONEZ  REPÚBLICA ARGENTINA ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e4"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340113500,
+  "nombre": "C.D.I. SAGRADA ESPERANZA",
+  "domicilio": "PASAJE S/N  JUAN DOMINDO PERON ",
+  "cod_postal": 3600,
+  "telefono": "000 000",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14e5"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Social/cooperativa",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340113600,
+  "nombre": "C.D.I. NAM QOM",
+  "domicilio": "LOTE 68  LOTE 68 ",
+  "cod_postal": 3600,
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14f0"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340114900,
+  "nombre": "JARDIN MATERNO INFANTIL MIMITOS",
+  "domicilio": "PARAGUAY 737 SAN MARTÍN ",
+  "cod_postal": 3600,
+  "telefono": " ",
+  "mod_comun": 1,
+  "ec_mat": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14fa"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340115300,
+  "nombre": "JIN Nº 44 BARRIO LA NUEVA FORMOSA",
+  "domicilio": "MAIPU  NUEVA FORMOSA CALLE 18 Y CALLE 19",
+  "telefono": "370 4324079",
+  "mail": "haydeemedina.96@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14fb"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340115301,
+  "nombre": "JIN Nº 44 ANEXO 1 - BARRIO LA NUEVA FORMOSA",
+  "domicilio": "MAIPU Y CALLE 7  LA NUEVA FORMOSA ",
+  "telefono": "3704 324079",
+  "mail": "haydeemedina96@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14fc"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "VILLA TRINIDAD",
+  "cod_loca": 34014161,
+  "CUEanexo": 340115302,
+  "nombre": "JIN N° 44 - EPEP N° 5",
+  "domicilio": "  VILLA TRINIDAD DIVINA  PUEBLO DE DIOS LOTE RURAL 221",
+  "cod_postal": 3600,
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad14fe"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Privado",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340115600,
+  "nombre": "JARDIN DE INFANTES NUEVA VIDA",
+  "domicilio": "FOTHERINGHAM 696 SAN MARTÍN ",
+  "cod_postal": 3600,
+  "telefono": "0370 4554748",
+  "mail": "escuelanuevavidafsa@gmail.com",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1512"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340116800,
+  "nombre": "JIN Nº 48 - EPEP Nº 445-EX JIN Nº 9",
+  "domicilio": "EGILDO TASSONE 99 Bº LIBORSI CORRIENTES Y 6TA.",
+  "cod_postal": "P3600",
+  "telefono": "S/N S/N",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1513"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340116801,
+  "nombre": "JIN Nº 48 - EPEP Nº 17-EX JIN Nº9",
+  "domicilio": "AVENIDA GUTNISKY 5055 EL PUCU ",
+  "cod_postal": "P3600",
+  "telefono": "S/N S/N",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1514"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340116802,
+  "nombre": "JIN Nº 48 - EPEP Nº 491",
+  "domicilio": "O'HIGGINS 5900 12 DE OCTUBRE CORONEL BOGADO Y 4TA",
+  "cod_postal": "P3600",
+  "telefono": "S/N S/N",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1515"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340116803,
+  "nombre": "JIN Nº 48 - EPEP Nº 426",
+  "domicilio": "SAAVEDRA Y 4º  SAGRADO CORAZON DE MARIA ",
+  "cod_postal": "P3600",
+  "telefono": "S/N S/N",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1551"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340119000,
+  "nombre": "EJI Nº 23",
+  "domicilio": "  EL MBIGUÁ ",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1552"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340119100,
+  "nombre": "EJI Nº 29 ",
+  "domicilio": "  8 DE MARZO ",
+  "cod_postal": "P3600",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1554"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340119300,
+  "nombre": "EJI Nº 26",
+  "domicilio": "  BARRIO LOTE 111 ",
+  "telefono": "00 00",
+  "mod_comun": 1,
+  "ec_jar": 1
+},
+{
+  "_id": {
+    "$oid": "64ecc10a1b1638f413ad1556"
+  },
+  "jurisdicción": "Formosa",
+  "sector": "Estatal",
+  "ambito": "Urbano",
+  "departamento": "FORMOSA",
+  "cod_depar": 34014,
+  "localidad": "FORMOSA",
+  "cod_loca": 34014051,
+  "CUEanexo": 340119500,
+  "nombre": "EJI N° 27",
+  "domicilio": "  LA NUEVA FORMOSA ",
+  "cod_postal": 3600,
+  "telefono": "000 0000",
+  "mod_comun": 1,
+  "ec_jar": 1
+}]
